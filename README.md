@@ -1,7 +1,4 @@
-## VetConnect-Login-and-Registeration
-VetConnect Login and Registeration function
-
-# Full zip files download: 
+## Full zip files download: 
 https://drive.google.com/file/d/1DlMtfd0Z9jLl36MsOkFFGQLl370UNhVG/view?usp=sharing
 
 ## Video link (Demo):
